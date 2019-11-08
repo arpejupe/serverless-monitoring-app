@@ -4,7 +4,7 @@ import { Header, Segment } from 'semantic-ui-react';
 import { DataTable, Refresh } from './components';
 import './semanticUI';
 
-const title = 'Elections Monitoring App Test';
+const title = 'Elections Monitoring App Test Branch Dev';
 
 class App extends Component<any, any> {
   public render() {
